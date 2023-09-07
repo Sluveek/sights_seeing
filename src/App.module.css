@@ -22,6 +22,10 @@ a:hover i {
   transition: color ease-in-out 0.4s;
 }
 
+.Main {
+  padding-top: 81px;
+}
+
 i {
   color: #1A801A;
   font-size: 1.6rem;
